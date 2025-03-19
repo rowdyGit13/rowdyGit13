@@ -1,38 +1,58 @@
-## Welcome In!
+# Hi there, I'm rowdyGit13 👋
 
-<!--
-**rowdyGit13/rowdyGit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About Me
+Materials Scientist and Engineer with a PhD in Chemical Engineering, currently working as an Applications Engineer on automated semiconductor metrology tools. Self-taught programmer looking to transition into software development.
 
-I'm a materials scientist and engineer by trade. I got my PhD in chemical engineering and I currently work as an applications engineer on automated semiconductor metrology tools. I picked up programming on the side during my PhD and have continued to learn and use it ever since. I'm now looking to transition into a career in software development.
+## 💻 Tech Stack
 
-### My Projects
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-I'm currently working on a few projects.
+### Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-Tech Stack 1:
-    - languages: javascript, HTML/CSS
-    - Frontend tools: Drizzle ORM (SQL), typescript, next.js, tailwind CSS, shadcn/ui
-    - Backend tools: Supabase
-    - Authentication: Clerk
-    - Deployment: Vercel
-(1) A ride tracker app for rideshare drivers to help them more accurately track their earnings and expenses
-    - [repo](https://github.com/rowdyGit13/ride-tracker-pro)
-    - [deployment](https://ride-tracker-pro.vercel.app)
-(2) A simple online todo app.
-    - [repo](https://github.com/rowdyGit13/to-do-app.git)
-    - [deployment](https://to-do-app-indol-nu.vercel.app/)
+### Backend & Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-000000?style=flat-square)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Tech Stack 2:
+### Tools & Deployment
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-- [rowdyGit13](https://github.com/rowdyGit13)
+## 🚀 Projects
+
+### Ride Tracker Pro
+A comprehensive tool for rideshare drivers to accurately track earnings and expenses.
+
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Supabase, Clerk
+- [Repository](https://github.com/rowdyGit13/ride-tracker-pro)
+- [Live Demo](https://ride-tracker-pro.vercel.app)
+
+### To-Do App
+A clean, simple task management application with intuitive UI.
+
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL
+- [Repository](https://github.com/rowdyGit13/to-do-app)
+- [Live Demo](https://to-do-app-indol-nu.vercel.app/)
+
+### Online Polling Visualization
+A platform for creating polls with real-time data visualization.
+
+- **Tech Stack**: Python, Django, PostgreSQL, HTML/CSS
+- [Repository](https://github.com/rowdyGit13)
+
+## 📫 Connect With Me
+
+<!-- Add your social links and contact information here -->
+
+---
+
+*I'm always open to collaborating on interesting projects. Feel free to reach out!*
