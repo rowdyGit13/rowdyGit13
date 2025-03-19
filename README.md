@@ -1,9 +1,7 @@
-## Hi there 👋
+## Welcome In!
 
 <!--
 **rowdyGit13/rowdyGit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+
+I'm a materials scientist and engineer by trade. I got my PhD in chemical engineering and I currently work as an applications engineer on automated semiconductor metrology tools. I picked up programming on the side during my PhD and have continued to learn and use it ever since. I'm now looking to transition into a career in software development.
+
+### My Projects
+
+I'm currently working on a few projects.
+
+- [rowdyGit13](https://github.com/rowdyGit13)
+- [rowdyGit13](https://github.com/rowdyGit13)
