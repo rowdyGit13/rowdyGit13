@@ -1,4 +1,4 @@
-# Hi there, I'm rowdyGit13 👋
+# Howdy - Thanks for visting
 
 ## About Me
 
