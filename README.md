@@ -1,4 +1,4 @@
-# Howdy - Thanks for visting
+# Howdy - Thanks for visting my site
 
 ## About Me
 
