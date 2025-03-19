@@ -20,5 +20,19 @@ I'm a materials scientist and engineer by trade. I got my PhD in chemical engine
 
 I'm currently working on a few projects.
 
-- [rowdyGit13](https://github.com/rowdyGit13)
+Tech Stack 1:
+    - languages: javascript, HTML/CSS
+    - Frontend tools: Drizzle ORM (SQL), typescript, next.js, tailwind CSS, shadcn/ui
+    - Backend tools: Supabase
+    - Authentication: Clerk
+    - Deployment: Vercel
+(1) A ride tracker app for rideshare drivers to help them more accurately track their earnings and expenses
+    - [repo](https://github.com/rowdyGit13/ride-tracker-pro)
+    - [deployment](https://ride-tracker-pro.vercel.app)
+(2) A simple online todo app.
+    - [repo](https://github.com/rowdyGit13/to-do-app.git)
+    - [deployment](https://to-do-app-indol-nu.vercel.app/)
+
+Tech Stack 2:
+
 - [rowdyGit13](https://github.com/rowdyGit13)
