@@ -4,7 +4,7 @@
 
 Materials Scientist and Engineer with a PhD in Chemical Engineering, currently working as an Applications Engineer on automated semiconductor metrology tools. Self-taught programmer looking to transition into software development.
 
-## 💻 Tech Stack
+## Tech Stack Experience
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -27,32 +27,28 @@ Materials Scientist and Engineer with a PhD in Chemical Engineering, currently w
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-## 🚀 Projects
+## Projects
 
-### Ride Tracker Pro
-A comprehensive tool for rideshare drivers to accurately track earnings and expenses.
+### (1) Ride Tracker Pro
+A tool for rideshare drivers to more accurately track earnings and expenses.
 
 - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Supabase, Clerk
 - [Repository](https://github.com/rowdyGit13/ride-tracker-pro)
 - [Live Demo](https://ride-tracker-pro.vercel.app)
 
-### To-Do App
-A clean, simple task management application with intuitive UI.
+### (2) To-Do App
+A simple task management app.
 
 - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL
 - [Repository](https://github.com/rowdyGit13/to-do-app)
 - [Live Demo](https://to-do-app-indol-nu.vercel.app/)
 
-### Online Polling Visualization
+### (3) Online Polling Visualization
 A platform for creating polls with real-time data visualization.
 
 - **Tech Stack**: Python, Django, PostgreSQL, HTML/CSS
 - [Repository](https://github.com/rowdyGit13)
 
-## 📫 Connect With Me
-
-<!-- Add your social links and contact information here -->
-
 ---
-
-*I'm always open to collaborating on interesting projects. Feel free to reach out!*
+## Connect With Me
+https://www.linkedin.com/in/sgibbs13/
