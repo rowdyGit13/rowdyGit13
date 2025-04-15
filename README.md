@@ -43,11 +43,12 @@ A simple task management app.
 - [Repository](https://github.com/rowdyGit13/to-do-app)
 - [Live Demo](https://to-do-app-indol-nu.vercel.app/)
 
-### (3) Online Polling Visualization
-A platform for creating polls with real-time data visualization.
+### (3) NBA Analytics Dashboard
+Search and visulaize NBA team and player stats.
 
-- **Tech Stack**: Python, Django, PostgreSQL, HTML/CSS
+- **Tech Stack**: Python, Django, PostgreSQL, Streamlit, HTML/CSS
 - [Repository](https://github.com/rowdyGit13)
+- [Live Demo](https://nba-analytics-nl5rw6mrlaormfsdypthqq.streamlit.app/)
 
 ---
 ## Connect With Me
