@@ -29,19 +29,19 @@ Materials Scientist and Engineer with a PhD in Chemical Engineering, currently w
 
 ## Projects
 
-### (1) Ride Tracker Pro
+### (1) ChatWithDocs
+Upload your files and ask questions to get LLM-driven insights. A chatbot that uses a retrieval (RAG) system get relevant information from your uploads and uses the openAI chat completions API to communicate.
+
+- **Tech Stack**: openai API, Next.js, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Supabase
+- [Repository](https://github.com/rowdyGit13/chat-with-docs)
+- [Live Demo]([https://ride-tracker-pro.vercel.app](https://chat-with-docs-beige.vercel.app/)
+
+### (2) Ride Tracker Pro
 A tool for rideshare drivers to more accurately track earnings and expenses.
 
 - **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Supabase, Clerk
 - [Repository](https://github.com/rowdyGit13/ride-tracker-pro)
 - [Live Demo](https://ride-tracker-pro.vercel.app)
-
-### (2) To-Do App
-A simple task management app.
-
-- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL
-- [Repository](https://github.com/rowdyGit13/to-do-app)
-- [Live Demo](https://to-do-app-indol-nu.vercel.app/)
 
 ### (3) NBA Analytics Dashboard
 Search and visulaize NBA team and player stats.
@@ -49,6 +49,13 @@ Search and visulaize NBA team and player stats.
 - **Tech Stack**: Python, Django, PostgreSQL, Streamlit, HTML/CSS
 - [Repository](https://github.com/rowdyGit13)
 - [Live Demo](https://nba-analytics-nl5rw6mrlaormfsdypthqq.streamlit.app/)
+
+### (4) To-Do App
+A simple task management app.
+
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL
+- [Repository](https://github.com/rowdyGit13/to-do-app)
+- [Live Demo](https://to-do-app-indol-nu.vercel.app/)
 
 ---
 ## Connect With Me
