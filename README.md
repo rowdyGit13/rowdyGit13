@@ -34,7 +34,7 @@ Upload your files and ask questions to get LLM-driven insights. A chatbot that u
 
 - **Tech Stack**: openai API, Next.js, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Supabase
 - [Repository](https://github.com/rowdyGit13/chat-with-docs)
-- [Live Demo]([https://ride-tracker-pro.vercel.app](https://chat-with-docs-beige.vercel.app/)
+- [Live Demo](https://chat-with-docs-beige.vercel.app/)
 
 ### (2) Ride Tracker Pro
 A tool for rideshare drivers to more accurately track earnings and expenses.
